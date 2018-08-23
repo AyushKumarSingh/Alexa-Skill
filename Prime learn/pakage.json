@@ -19,11 +19,11 @@
                     "name": "whatismathfun",
                     "slots": [],
                     "samples": [
-                        "maths fun",
-                        "tell me prime fun",
-                        "prime fun",
-                        "math fun",
-                        "tell me math fun"
+                        "maths fun fact ",
+                        "tell me prime fun facts",
+                        "prime fun facts",
+                        "math fun facts",
+                        "tell me math fun facts"
                     ]
                 }
             ],
